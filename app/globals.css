@@ -1,4 +1,9 @@
-* {
+* {body {
+      background: #111827 !important;
+        color: white !important;
+          font-family: Arial, sans-serif !important;
+          } 
+}
   box-sizing: border-box;
 }
 
